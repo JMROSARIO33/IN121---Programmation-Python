@@ -1,0 +1,10 @@
+<html> 
+  <head> 
+    <title>Ma page - Python HTTP</title>
+  </head> 
+  <body> 
+    <h1>Bienvenue sur ma page</h1> 
+    <p>Cette page est un exemple simple de contenu HTML.</p> 
+    <p>Bravo ! Le serveur HTTP fonctionne !</p> 
+  </body>
+</html>
